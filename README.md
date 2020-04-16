@@ -20,6 +20,9 @@ https://qiita.com/mysticatea/items/f523dab04a25f617c87d
 拡張がドットファイルやドットディレクトリ以下のファイルで動作しない
 https://nju33.com/vscode/eslint%20%E6%8B%A1%E5%BC%B5%E3%81%8C%E3%83%89%E3%83%83%E3%83%88%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%84%E3%83%89%E3%83%83%E3%83%88%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E4%BB%A5%E4%B8%8B%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%97%E3%81%AA%E3%81%84
 
+Step by Stepで始めるESLint
+https://qiita.com/howdy39/items/6e2c75861bc5a14b2acf
+
 ## Project setup
 ```
 npm install
